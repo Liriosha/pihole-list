@@ -1,2 +1,3 @@
 akamaized.net
 akamai.net
+verifi.podscribe.com
