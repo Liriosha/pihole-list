@@ -1,0 +1,4 @@
+.*\.googlevideo\.com$
+.*\.gvt1\.com$
+.*\.ggpht\.com$
+.*\.googlesyndication\.com$
