@@ -1,0 +1,43 @@
+name: Build master list
+
+on:
+  push:
+    paths:
+      - 'Misc/**'
+      - 'Services/**'
+      - '.github/actions/build/**'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Combine
+        run: |
+          {
+            find Misc Services -type f | sort | while read -r file; do
+              cat "$file"
+              echo
+            done
+          } > master.txt
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add master.txt
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Update master list"
+          git push
