@@ -1,10 +1,10 @@
 akamaized.net
 akamai.net
 verifi.podscribe.com
-.*\.googlevideo\.com$
-.*\.gvt1\.com$
-.*\.ggpht\.com$
-.*\.googlesyndication\.com$
+googlevideo.com
+gvt1.com
+ggpht.com
+googlesyndication.com
 ecsv2.roblox.com
 ncs.roblox.com
 lms.roblox.com
