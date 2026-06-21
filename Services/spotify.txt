@@ -194,7 +194,7 @@ bloodhound-off-helios.spotify.com
 sto.weblb-wg.gslb.spotify.com
 concerts.scdn.co
 ac.audio-ak.cdn.spotify.com
-lon.weblb-wg.gslb.spotify.coma
+lon.weblb-wg.gslb.spotify.com
 25.video-ak.cdn.spotify.com
 43.video-ak.cdn.spotify.com
 88.video-ak.cdn.spotify.com
