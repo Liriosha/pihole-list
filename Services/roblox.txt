@@ -1,13 +1,13 @@
-0.0.0.0 ecsv2.roblox.com
-0.0.0.0 ncs.roblox.com
-0.0.0.0 lms.roblox.com
-0.0.0.0 metrics.roblox.com
-0.0.0.0 gold.roblox.com
-0.0.0.0 client-telemetry.roblox.com
-0.0.0.0 tracing.roblox.com
-0.0.0.0 dfw2-128-116-95-3.roblox.com
-0.0.0.0 ams2-128-116-21-3.roblox.com
-0.0.0.0 atl1-128-116-99-3.roblox.com
-0.0.0.0 lax2-128-116-116-3.roblox.com
-0.0.0.0 nrt1-128-116-120-3.roblox.com
-0.0.0.0 ord2-128-116-101-3.roblox.com
+ecsv2.roblox.com
+ncs.roblox.com
+lms.roblox.com
+metrics.roblox.com
+gold.roblox.com
+client-telemetry.roblox.com
+tracing.roblox.com
+dfw2-128-116-95-3.roblox.com
+ams2-128-116-21-3.roblox.com
+atl1-128-116-99-3.roblox.com
+lax2-128-116-116-3.roblox.com
+nrt1-128-116-120-3.roblox.com
+ord2-128-116-101-3.roblox.com
