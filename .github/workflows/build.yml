@@ -5,7 +5,7 @@ on:
     paths:
       - 'Misc/**'
       - 'Services/**'
-      - '.github/actions/build/**'
+      - '.github/workflows/build.yml'
 
 permissions:
   contents: write
