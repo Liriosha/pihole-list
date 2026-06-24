@@ -1,6 +1,7 @@
 akamaized.net
 akamai.net
 verifi.podscribe.com
+amplitude.com
 googlevideo.com
 gvt1.com
 ggpht.com
