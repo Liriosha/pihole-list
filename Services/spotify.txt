@@ -49,7 +49,6 @@ c5.video-ak.cdn.spotify.com
 ns5.spotify.com
 51.video-ak.cdn.spotify.com
 bloodhound.spotify.com
-spclient-canary.wg.spotify.com
 a4.audio-ak.cdn.spotify.com
 02.video-ak.cdn.spotify.com
 hrblog.spotify.com
@@ -86,14 +85,12 @@ df.audio-ak.cdn.spotify.com
 cf.audio-ak.cdn.spotify.com
 c7.audio-ak.cdn.spotify.com
 f6.audio-ak.cdn.spotify.com
-gew3-spclient.spotify.com
 u.scdn.co
 cb.video-ak.cdn.spotify.com
 concerts-hometile-images.scdn.co
 ns2.spotify.com
 bc.audio-ak.cdn.spotify.com
 b4.audio-ak.cdn.spotify.com
-guc-spclient.spotify.com
 car-prod.scdn.co
 login-signup.scdn.co
 d0.video-ak.cdn.spotify.com
@@ -319,7 +316,6 @@ shrt.spotify.com
 heads-fa.spotify.com
 e9.video-ak.cdn.spotify.com
 36.video-ak.cdn.spotify.com
-gae-spclient.spotify.com
 laurinda.ash1.spotify.com
 09.video-ak.cdn.spotify.com
 audio-ads.spotify.com
@@ -399,12 +395,10 @@ sto3-inbound-a2.sto3.spotify.com
 16.audio-ak.cdn.spotify.com
 ash2-idp-a1.ash2.spotify.com
 crusader.scdn.co
-gew-spclient.spotify.com
 1f.audio-ak.cdn.spotify.com
 09.audio-ak.cdn.spotify.com
 f1.video-ak.cdn.spotify.com
 00.video-ak.cdn.spotify.com
-gew2-spclient.spotify.com
 f7.video-ak.cdn.spotify.com
 ainara.ash.spotify.com
 18.audio-ak.cdn.spotify.com
@@ -431,9 +425,7 @@ thisis-images.scdn.co
 staging-newsroom.spotify.com
 a4.video-ak.cdn.spotify.com
 ap-gue1.spotify.com
-gue1-spclient.spotify.com
 d4.audio-ak.cdn.spotify.com
-gew1-spclient.spotify.com
 2d.video-ak.cdn.spotify.com
 lotta.ash1.spotify.com
 f9.audio-ak.cdn.spotify.com
@@ -479,7 +471,6 @@ ap-guc3.spotify.com
 a3.audio-ak.cdn.spotify.com
 ab.video-ak.cdn.spotify.com
 7c.audio-ak.cdn.spotify.com
-sto-spclient.spotify.com
 gew-dealer.g2.spotify.com
 ec.video-ak.cdn.spotify.com
 1b.video-ak.cdn.spotify.com
